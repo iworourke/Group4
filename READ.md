@@ -1,2 +1,5 @@
 # Group4
-Whitney Larsen: Team Lead
+Polygnomials
+Pizza topping: Canadian bacon
+
+Team Lead: Whitney Larsen
